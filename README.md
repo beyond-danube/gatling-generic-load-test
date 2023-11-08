@@ -1,0 +1,1 @@
+# gatling-generic-load-test
